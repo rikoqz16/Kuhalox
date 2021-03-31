@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(115, 192, 199);
+line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+}
+h1 {
+    font-size: 50px;
+    color: rgb(119, 16, 36);
+}
+.title {
+ font-size: 15px;
+ color: rgb(98, 134, 13)
+}
+.card {
+    width: 450px;
+    margin: 100px 700px;
+    background: url(../img/IMG_20210331_093043.jpg);
+    background-color: cornflowerblue;
+    box-shadow: 100 5px 10px cadetblue ;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card-photo {
+    display: block;
+     width: 200px;
+     height: 200px;
+     margin: 100 700px; 
+     border-radius: 100%;  
+}
+.lox {
+    font-size:20px ;
+    text-align: center;
+    color: rgb(7, 30, 158);
+}
+.hs {
+    font-size: 30px;
+    background-color: darkblue;
+}
+.shi {
+    background-color: darkred;
+}
+.kuxaz {
+    font-size: 30px;
+    background-color: darksalmon;
+    padding-left: 0;
+    list-style-position: inside;
+}
